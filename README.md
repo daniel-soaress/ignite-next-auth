@@ -2,7 +2,7 @@
   💻<br>Ignite - Autenticação e Autorização
 </h1>
 
-![Resultado final do projeto](public/preview.png)
+![Capítulo IV - Módulo](public/preview.png)
 
 <h4 align="center"><a href="https://www.rocketseat.com.br/ignite">Clique para visitar o curso</a></h4>
 
